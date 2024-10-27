@@ -37,3 +37,10 @@ When Anthony signs up for the app for the very first time, he is prompted with a
 ### Ysajelle’s story
 
 Ysajelle just signed up for Netflix membership, she opened SpendSmart, created a new category labeled “recreation expense”, added the cost of Netflix membership fee under that category. Then, whenever she spends anything on recreation, she adds it to the “recreation expense” category. When she checked her account after a few months, she found that she spent a lot on recreation in December 2024 by looking at December’s summary of expenses by categories. 
+
+### Annie's Story
+
+Annie has two jobs that she would like to track in SpendSmart. 
+
+One of the jobs is a full-time job; the other one is a part-time contract job. She would like to separate the incomes from the two sources to verify that both of them are worth her time. Annie logs in to the SmartSpend account and sets one income type as a full-time (fixed) income with the source marked as her first job. The fixed income has a paycheck twice a month with a fixed amount, which does not need to be updated later on. The other payouts are categorized as part-time (variable) income, where the amount paid each time depends on the month and needs to be inputted every time.
+
