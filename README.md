@@ -7,7 +7,7 @@
 1. Annie Sorkin ()
 2. Liangyu Han ()
 3. Anthony Zhao ()
-4. Ysajelle Yi Ru Chua Lim ()
+4. Ysajelle Yi Ru Chua Lim (Ysajelle-Lim)
 5. Jia Yi Wu (Observer3510)
 
 ## User Stories
