@@ -4,7 +4,7 @@
 
 [comment]: <> (Add your GitHub usernames in the brackets please!)
 
-1. Annie Sorkin ()
+1. Annie Sorkin (xretr0)
 2. Liangyu Han ()
 3. Anthony Zhao ()
 4. Ysajelle Yi Ru Chua Lim (Ysajelle-Lim)
