@@ -33,9 +33,9 @@ She logs into SpendSmart and looks at her spending on the dashboard. She decides
 
 ### Anthony's Story
 
-As a well-off businessman with much more disposable income than the average person, Anthony wants to know the best way to invest some of his money so he can have even more disposable income in the future.
+Anthony wants to compare his spending this month with his spending last month.
 
-When Anthony signs up for the app for the very first time, he enters his income and the app determines that he has more disposable income than the average person. The AI suggests him to invest in a stock index for stable returns in money.
+When Anthony views his statistics for spending for the past three months, he chooses to compare the current month with the previous month, and the app displays overlayed bar and line plots to help him make an educated decision on his spending habits.
 
 ### Ysajelle’s story
 
