@@ -13,6 +13,7 @@
 ## User Stories
 
 [comment]: <> (The first sentence should be what the user wants to do and the rest of the story should detail how they achieve that.)
+[comment]: <> (Format for the first sentence: "As a [type of user], I want [a feature] so that [a benefit]")
 
 ### Team story
 
