@@ -10,14 +10,14 @@
 4. Ysajelle Yi Ru Chua Lim (Ysajelle-Lim)
 5. Jia Yi Wu (Observer3510)
 
-## User Stories
+## User Stories/Cases
 
 [comment]: <> (The first sentence should be what the user wants to do and the rest of the story should detail how they achieve that.)
 [comment]: <> (Format for the first sentence: "As a [type of user], I want [a feature] so that [a benefit]")
 
 ### Team story
 
-Junior already has a SpendSmart account and needs to log in.
+As a young adult, I want to keep track of my budgeting so that I can have a better understanding of my finances.
 
 As a returning user, he is not greeted with the tutorial for new users. He then updated his monthly income with the latest information, and the dashboard visualization dynamically reflects this change. Junior then logs out of the account, returning them to the login page.
 
@@ -27,7 +27,7 @@ James is prompted with a series of questions prior to the signup process. James 
 
 ### Jia Yi's Story
 
-Clair wants to check how much she’s spent that month. 
+As a student, Clair wants to check how much she’s spent that month so she can plan for the next month. 
 
 She logs into SpendSmart and looks at her spending on the dashboard. She decides that she’s been spending too much on eating out so she asks the AI assistant to create a budgeting plan that lowers her expenses on food. 
 
@@ -45,5 +45,5 @@ Annie has two jobs that she would like to track in SpendSmart.
 
 One of the jobs is a full-time job; the other one is a part-time contract job. She would like to separate the incomes from the two sources to verify that both of them are worth her time. Annie logs in to the SmartSpend account and sets one income type as a full-time (fixed) income with the source marked as her first job. The fixed income has a paycheck twice a month with a fixed amount, which does not need to be updated later on. The other payouts are categorized as part-time (variable) income, where the amount paid each time depends on the month and needs to be inputted every time.
 
-## Use Cases
+## Entities
 
