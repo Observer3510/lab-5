@@ -33,7 +33,9 @@ She logs into SpendSmart and looks at her spending on the dashboard. She decides
 
 ### Anthony's Story
 
-When Anthony signs up for the app for the very first time, he is prompted with a series of questions. Because he stated that he is a student with a low budget, the app provides him with relevant suggestions to make smart financial decisions, such as dividing income between needs, wants, and savings differently.
+As a well-off businessman with much more disposable income than the average person, Anthony wants to know the best way to invest some of his money so he can have even more disposable income in the future.
+
+When Anthony signs up for the app for the very first time, he enters his income and the app determines that he has more disposable income than the average person. The AI suggests him to invest in a stock index for stable returns in money.
 
 ### Ysajelle’s story
 
