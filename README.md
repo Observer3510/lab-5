@@ -6,7 +6,7 @@
 
 1. Annie Sorkin (xretr0)
 2. Liangyu Han (lxyhan)
-3. Anthony Zhao ()
+3. Anthony Zhao (anthonyzhao27)
 4. Ysajelle Yi Ru Chua Lim (Ysajelle-Lim)
 5. Jia Yi Wu (Observer3510)
 
