@@ -23,6 +23,8 @@ As a returning user, he is not greeted with the tutorial for new users. He then 
 
 ### James' Story
 
+James, a student, wants to log his paycheck and check his past month's spending.
+
 James is prompted with a series of questions prior to the signup process. James then chooses either an email password combination, or to login using google authentication. If successful, he is directed to the dashboard page, where he will then be faced with an AI generated tutorial of all the features. He can then add his income input and spending output and generate statistics about his monthly spending. 
 
 ### Jia Yi's Story
