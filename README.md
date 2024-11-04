@@ -33,7 +33,7 @@ She logs into SpendSmart and looks at her spending on the dashboard. She decides
 
 ### Anthony's Story
 
-When Anthony signs up for the app for the very first time, he is prompted with a series of questions. Based on his answers to the questions, the app provides him with relevant suggestions to make smart financial decisions. 
+When Anthony signs up for the app for the very first time, he is prompted with a series of questions. Because he stated that he is a student with a low budget, the app provides him with relevant suggestions to make smart financial decisions, such as dividing income between needs, wants, and savings differently.
 
 ### Ysajelle’s story
 
