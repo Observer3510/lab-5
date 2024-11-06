@@ -39,6 +39,8 @@ When Anthony views his statistics for spending for the past three months, he cho
 
 ### Ysajelle’s story
 
+As a user, Ysajelle wants to organize her expenses by category so that she can have a summary of how much she spent on each category.
+
 Ysajelle just signed up for Netflix membership, she opened SpendSmart, created a new category labeled “recreation expense”, added the cost of Netflix membership fee under that category. Then, whenever she spends anything on recreation, she adds it to the “recreation expense” category. When she checked her account after a few months, she found that she spent a lot on recreation in December 2024 by looking at December’s summary of expenses by categories. 
 
 ### Annie's Story
